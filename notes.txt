@@ -1,0 +1,22 @@
+module is basicaly the already written content so we don't need tp rewrite the logic, for example if we want to find the harmonic mean then we can directly do it with the help of the module as its already written in it.
+
+python works on repl(read evaluate print and then loop)
+
+triple single quotes semultiple lines print ho sakti haan aur triple double quotes se multiple line comment ho sakti haan
+
+there are 2 types of modules 
+external and internal
+
+pyttsx3 is the external module for text to speech 
+
+input is always string in python sp type cast karna padta ha 
+
+string is immutable 
+
+new thing came after python 3.6 is:-
+print(f"Good Afternoon {name} ")
+here we can use the name variable directly inside the " " 
+
+strings can't be changed they are immutable but it can be done in lists ..
+
+tupples are immutable 
