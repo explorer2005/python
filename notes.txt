@@ -20,3 +20,16 @@ here we can use the name variable directly inside the " "
 strings can't be changed they are immutable but it can be done in lists ..
 
 tupples are immutable 
+
+in dictionary difference between dict.get("name") and dic["name"] is that .get give none but the second gives error if the key doesnot exists 
+s={} will create empty dictionary 
+e=set() will create empty set 
+no element can be repeated in set
+set are unindexed and unordered
+
+1==1.0 in python because values are same 
+
+in keyword  is used to find whether a particular string is present or not 
+
+for loop with else is also there in python where once the for loop finishes else statements get triggered 
+pass keyword is used in python to skip  that particular part of the code 
