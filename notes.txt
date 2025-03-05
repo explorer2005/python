@@ -33,3 +33,5 @@ in keyword  is used to find whether a particular string is present or not
 
 for loop with else is also there in python where once the for loop finishes else statements get triggered 
 pass keyword is used in python to skip  that particular part of the code 
+
+in file open and close suppose you dont want to everytime write file.close(), so use wwith keyword 
