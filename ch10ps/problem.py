@@ -33,10 +33,10 @@
 # dict={1:first.square,2:first.cube,3:first.squareRoot}
 # dict[m]()
 
-class q3:
-    a="Class Attribute"
+# class q3:
+#     a="Class Attribute"
 
-dhruv=q3()
-print(dhruv.a)
-print(q3.a)
+# dhruv=q3()
+# print(dhruv.a)
+# print(q3.a)
 

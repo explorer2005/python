@@ -35,3 +35,6 @@ for loop with else is also there in python where once the for loop finishes else
 pass keyword is used in python to skip  that particular part of the code 
 
 in file open and close suppose you dont want to everytime write file.close(), so use wwith keyword 
+
+No, in Python, the parent class constructor (__init__ method) is not called automatically when a child class object is created. You must explicitly call it.
+
