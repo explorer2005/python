@@ -38,3 +38,6 @@ in file open and close suppose you dont want to everytime write file.close(), so
 
 No, in Python, the parent class constructor (__init__ method) is not called automatically when a child class object is created. You must explicitly call it.
 
+error raise karna se programm vahi crash ho jata ha 
+
+try except ka baad else ma vo piece of  code likhta haan jo tabhi execute ho jab try wala code sahi se work kare aur finally ma vo likhta haan jo pakka run hona hi ha chahe error ai ya na ai and mainly its useful in function...
