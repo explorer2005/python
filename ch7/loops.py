@@ -1,6 +1,6 @@
 i=0
 while(i<50):
     print(i , end=" ")
-    i+=3
+    i+=4
 
     
